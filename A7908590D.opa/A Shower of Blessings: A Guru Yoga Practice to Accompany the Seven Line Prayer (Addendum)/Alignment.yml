@@ -1,0 +1,42 @@
+segment_sources:
+  P91B74DEB:
+    type: origin_type
+    relation: translation
+    language: en
+  P08942888:
+    type: origin_type
+    relation: translation
+    language: zh
+  P17288177:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a8ec19bea2f14cb9ae2dc28ab478f6e3:
+    P91B74DEB: 09347966e19f408ca5c9e3c8eeac1df1
+    P08942888: 0a533494d1994de7b9ef3f98bb894170
+    P17288177: b1efda7075814cefbf94265b2d00f334
+  ca4f4dd10c004cbf997d006edd040c2c:
+    P91B74DEB: faf1d2bd9cb142abb7e63ff7ff9e8d30
+    P08942888: 8d58d6cce2c94f50b955c9d7d3b1ef39
+    P17288177: 4c3a2d79dcfc4835b40ce3417989cfec
+  00501d7c6142413580c793e257ef4a27:
+    P91B74DEB: 11f4b0c6c83b4b2bae07ce39d4987e7e
+    P08942888: 55969726803c48328749353df094476b
+    P17288177: 130918b6501a43be98055767f14947ef
+  41a181db378d4f2bab6f3ea115262597:
+    P91B74DEB: dcf2d8f8e2ef4f498098cc21cd6ddeb3
+    P08942888: fbc5971eb24f4151aaf269b2acdf6c89
+    P17288177: 98154c6f53a246f2b05e5bdc8dc34aac
+  3be6c7f541be4f74b95021a5dfc94b0b:
+    P91B74DEB: 84caa1e9c8c8426daba13b21c702e10d
+    P08942888: 2fe9a9bd83fb499ab2ec68e8bd7ed65f
+    P17288177: 48c87cfd5a824e4a91398df48fbd0800
+  1d46d254724e44e0b70c549fc70ae79b:
+    P91B74DEB: addf1a274bbd48cd98d66a96b1624d56
+    P08942888: 15ae333ae7b14bbc8fc1a8f6b4623cf9
+    P17288177: 0c70ce4c772149cf804ac25ba7ffd721
+  f6197cab5a134c47be4fb52c0cbaa0b9:
+    P91B74DEB: 156b33995a974890b6bbc24822c8ce2b
+    P08942888: 3948a95a18da45a1bf72af93ed420090
+    P17288177: ba6f95c65b5c4ced92dccf4043461125

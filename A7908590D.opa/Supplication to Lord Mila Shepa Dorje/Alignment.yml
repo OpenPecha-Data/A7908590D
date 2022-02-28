@@ -1,0 +1,19 @@
+segment_sources:
+  P91B74DEB:
+    type: origin_type
+    relation: translation
+    language: en
+  P17288177:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  bf457440a2214654b889f74c222042f5:
+    P91B74DEB: d4c0e43e4e2b45eabd968cf271a5d85c
+    P17288177: dbcd60a34ddb46039e38f12d45a8e758
+  1ae75fe5b8354fa69ee7c0ff11f39a51:
+    P91B74DEB: c562b8a209284c8bab6a0b43f5160390
+    P17288177: 792aeaad142b429594735d1b204b57e4
+  2282704453744582ada8736a01541e78:
+    P91B74DEB: 52684af7eddf431daf6f112c1b935f9f
+    P17288177: 0fa14d32ddfe41a89fcf1891026705c0
